@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 <a href="https://orcid.org/0009-0003-2124-9120" target="_blank">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank" /></a>
+<a href="https://www.anandkumars.com" target="_blank">
+<img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank" /></a>
 </p>
 
 <p align=left>
