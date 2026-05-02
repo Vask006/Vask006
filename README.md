@@ -4,11 +4,9 @@
 <a href="mailto:anand@example.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
 <a href="https://www.linkedin.com/in/anand006/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-<a href="https://github.com/Vask006" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" target="_blank" /></a>
+<a href="https://orcid.org/0009-0003-2124-9120" target="_blank">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank" /></a>
 </p>
 
 <p align=left>
