@@ -1,3 +1,5 @@
+[![cover](https://github.com/Vask006/Vask006/blob/main/coverimg.png)](https://github.com/Vask006?tab=repositories)
+
 <h3 align="center">Enterprise Architect | AI Systems | Cloud & DevSecOps | Author & Speaker</h3>
 
 <p align=center>
