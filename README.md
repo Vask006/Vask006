@@ -35,7 +35,8 @@ I am passionate about bridging the gap between architectural vision and real-wor
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=blue)
 
-<h2 align="left">📊 Github Stats 📊</h2>
+<h2 align="left">📊 Github Stats</h2>
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vask006&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vask006&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vask006&theme=dark)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vask006&theme=apprentice)
+
